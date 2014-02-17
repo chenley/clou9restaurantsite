@@ -119,6 +119,7 @@ td {
 
 tr:nth-of-type(odd) {
     background: #000000;
+    color: #ffffff;
 }
 
 #form {
