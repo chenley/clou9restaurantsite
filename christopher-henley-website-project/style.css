@@ -18,7 +18,7 @@ body {
     margin: 0 auto;
     height: 100%;
     width: 85%;
-    border: double;
+    border: single;
     border-color: #000000;
 }
 
